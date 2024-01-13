@@ -5,7 +5,7 @@ Este projeto tem como objetivo realizar uma análise abrangente dos dados de ven
 ## Conteúdo do Projeto
 
 1. **Leitura e Carregamento dos Dados:**
-   - Utilização da linguagem de programação Python e da biblioteca Pandas para ler e carregar os dados do arquivo CSV ('data.csv').
+   - Utilização da linguagem de programação Python e da biblioteca Pandas para ler e carregar os dados do arquivo CSV ('data (2).csv').
    - Visualização das primeiras linhas do DataFrame para compreensão inicial dos dados.
 
 2. **Análise Exploratória dos Dados:**
